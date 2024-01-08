@@ -24,7 +24,6 @@
 - https://github.com/lotteon2/jeontongju-apigateway-service
 - https://github.com/lotteon2/jeontongju-auction-service
 - https://github.com/lotteon2/jeontongju-authentication-service
-- https://github.com/lotteon2/jeontongju-config
 - https://github.com/lotteon2/jeontongju-config-service
 - https://github.com/lotteon2/jeontongju-consumer-service
 - https://github.com/lotteon2/jeontongju-coupon-service
