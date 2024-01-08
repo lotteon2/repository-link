@@ -47,4 +47,25 @@
 
   
 ## DailyOn (3조)
+- https://github.com/lotteon2/dailyon-config-service
+- https://github.com/lotteon2/dailyon-apigateway-service
+- https://github.com/lotteon2/dailyon-discovery-service
 
+- https://github.com/lotteon2/dailyon-auction-service
+- https://github.com/lotteon2/dailyon-auth-service
+- https://github.com/lotteon2/dailyon-common-repository
+- https://github.com/lotteon2/dailyon-member-service
+- https://github.com/lotteon2/dailyon-notification-service
+- https://github.com/lotteon2/dailyon-order-service
+- https://github.com/lotteon2/dailyon-payment-service
+- https://github.com/lotteon2/dailyon-product-service
+- https://github.com/lotteon2/dailyon-promotion-service
+- https://github.com/lotteon2/dailyon-review-service
+- https://github.com/lotteon2/dailyon-search-service
+- https://github.com/lotteon2/dailyon-sns-service
+- https://github.com/lotteon2/dailyon-wish-cart-service
+
+- https://github.com/lotteon2/dailyon-infra
+
+- https://github.com/lotteon2/dailyon-admin-frontend
+- https://github.com/lotteon2/dailyon-frontend
