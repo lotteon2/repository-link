@@ -3,7 +3,6 @@
 - https://github.com/lotteon2/BB-APIGATEWAY-SERVICE
 - https://github.com/lotteon2/BB-AUTH-SERVICE
 - https://github.com/lotteon2/BB-COMMON-REPOSITORY
-- https://github.com/lotteon2/BB-CONFIG
 - https://github.com/lotteon2/BB-DELIVERY-SERVICE
 - https://github.com/lotteon2/BB-DISCOVERY-SERVICE
 - https://github.com/lotteon2/BB-FRONTEND
@@ -19,6 +18,7 @@
 - https://github.com/lotteon2/BB-WISHLIST-SERVICE
 - https://github.com/lotteon2/BB.INFRA
 - https://github.com/lotteon2/BB-INFRA-CONTROL
+- https://lotteon2.github.io/
 
 ## Jeontongju (2조)
 
