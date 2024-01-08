@@ -21,6 +21,31 @@
 - https://lotteon2.github.io/
 
 ## Jeontongju (2조)
+- https://github.com/lotteon2/jeontongju-apigateway-service
+- https://github.com/lotteon2/jeontongju-auction-service
+- https://github.com/lotteon2/jeontongju-authentication-service
+- https://github.com/lotteon2/jeontongju-config
+- https://github.com/lotteon2/jeontongju-config-service
+- https://github.com/lotteon2/jeontongju-consumer-service
+- https://github.com/lotteon2/jeontongju-coupon-service
+- https://github.com/lotteon2/jeontongju-discovery-service
+- https://github.com/lotteon2/jeontongju-front-admin
+- https://github.com/lotteon2/jeontongju-front-consumer
+- https://github.com/lotteon2/jeontongju-front-consumer-app
+- https://github.com/lotteon2/jeontongju-front-jumo
+- https://github.com/lotteon2/jeontongju-infra
+- https://github.com/lotteon2/jeontongju-notification-service
+- https://github.com/lotteon2/jeontongju-order-batch
+- https://github.com/lotteon2/jeontongju-order-service
+- https://github.com/lotteon2/jeontongju-payment-service
+- https://github.com/lotteon2/jeontongju-product-service
+- https://github.com/lotteon2/jeontongju-review-service
+- https://github.com/lotteon2/jeontongju-search-service
+- https://github.com/lotteon2/jeontongju-seller-service
+- https://github.com/lotteon2/jeontongju-storage-service
+- https://github.com/lotteon2/jeontongju-subscription-batch
+- https://github.com/lotteon2/jeontongju-wish-cart-service
 
+  
 ## DailyOn (3조)
 
